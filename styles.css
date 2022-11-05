@@ -1,0 +1,45 @@
+h1 {
+            font-style: oblique;
+            font-family: Algerian;
+            font-size: xxx-large;
+        }
+
+h2 {
+            font-style: oblique;
+            font-family: Algerian;
+        }
+
+h3 {
+            font-style: oblique;
+            font-family: Algerian;
+        }
+
+a {
+    color: dimgrey;
+}
+
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+li {
+    list-style-type: circle;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 0 20px black;
+    border-width: 1px;
+    border-style: solid;
+    border-color: antiquewhite;
+
+}
+
+p {
+    width: 50%;
+    font-family: Calibri;
+    font-size: medium;
+}
