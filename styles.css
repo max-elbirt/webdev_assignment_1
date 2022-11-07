@@ -42,4 +42,18 @@ p {
     width: 50%;
     font-family: Calibri;
     font-size: medium;
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 5px;
+    border-color: blanchedalmond;
+    border-radius: 5px;
+    padding: 1px;
+    background-color: blanchedalmond;
+    box-shadow: 0 0 10px black;
+}
+
+p:hover{
+    background-color: burlywood;
+    border-color: burlywood;
+    font-size: xx-large;
 }
